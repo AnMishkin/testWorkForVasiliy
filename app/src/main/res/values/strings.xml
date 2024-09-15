@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">testWork</string>
+    <string name="result_for_input_1">result for INPUT_1</string>
+    <string name="result_for_input_2">result for INPUT_2</string>
+    <string name="to_second_task">To second task</string>
+    <string name="find_bluetooth">Find bluetooth devices</string>
+    <string name="To_third_tast">To the third task</string>
+    <string name="bluetooth_dont_supported">Bluetooth is not supported on this device</string>
+    <string name="search_started">Device search started…</string>
+    <string name="dont_required_permissions">The required permissions have not been granted!</string>
+    <string name="permission_required">Your permission is required!</string>
+    <string name="go_to_third_task">Go to third task!</string>
+
+
+
+</resources>
